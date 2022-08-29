@@ -1,2 +1,2 @@
 # Java-DSA
-# This folder contains all the basic level of programs fro practice in java.
+# This folder will contains all the code from basic level to advance level in java.
